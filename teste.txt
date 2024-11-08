@@ -1,1 +1,4 @@
 connection teste
+
+git remote add origin git@github.com:bruno-cesar-silva-de-souza/teste-ssh
+
